@@ -12,6 +12,7 @@
 		1BCF18801DA6D7220045E980 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BCF187E1DA6D7220045E980 /* Main.storyboard */; };
 		1BCF18821DA6D7220045E980 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BCF18811DA6D7220045E980 /* Assets.xcassets */; };
 		1BCF18851DA6D7220045E980 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BCF18831DA6D7220045E980 /* LaunchScreen.storyboard */; };
+		C05469E51DA9371600E6067A /* Detail1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05469E41DA9371600E6067A /* Detail1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1BCF18811DA6D7220045E980 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BCF18841DA6D7220045E980 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BCF18861DA6D7220045E980 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C05469E41DA9371600E6067A /* Detail1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Detail1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1BCF18811DA6D7220045E980 /* Assets.xcassets */,
 				1BCF18831DA6D7220045E980 /* LaunchScreen.storyboard */,
 				1BCF18861DA6D7220045E980 /* Info.plist */,
+				C05469E41DA9371600E6067A /* Detail1ViewController.swift */,
 			);
 			path = HellaCollectionCells;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C05469E51DA9371600E6067A /* Detail1ViewController.swift in Sources */,
 				1BCF187D1DA6D7220045E980 /* HellaViewController.swift in Sources */,
 				1BCF187B1DA6D7220045E980 /* AppDelegate.swift in Sources */,
 			);
